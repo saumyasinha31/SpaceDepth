@@ -32,6 +32,7 @@ This application utilizes marker-based augmented reality (AR) technology powered
 5. **Marker Placement:**
    - Print or display Vuforia-compatible markers.
    - Use these markers to trigger the AR space elements in the application.
+ ![Screenshot 2024-06-17 131947](https://github.com/saumyasinha31/SpaceDepth/assets/103508561/06fb5a6a-d809-4012-9f98-5219bb9071e9)
 
 ## Usage
 - Launch the application on your AR-compatible device.
@@ -48,6 +49,10 @@ This application utilizes marker-based augmented reality (AR) technology powered
 
 ## Contributors
 - saumya sinha - Developer
+
+
+https://github.com/saumyasinha31/SpaceDepth/assets/103508561/14179804-8390-49eb-a813-c25411018e75
+
 
 
 
